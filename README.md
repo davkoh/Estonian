@@ -1,0 +1,1 @@
+This repo contains collection of notes about my learning experience with the Estonian language. All mistakes are mine, and I am not a native speaker. I am learning Estonian as a hobby, and I am not a linguist. I am just a Bayesian Statistician who is interested in languages. If you find any mistakes or have any suggestions, please feel free to open an issue or a pull request.
