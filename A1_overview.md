@@ -120,4 +120,5 @@
     - Positional words + locative
     - Minu pere
     - Infintiive ma ja da vormid
+    - put this into a qmd for further editing
 - Then make a repo and push this
